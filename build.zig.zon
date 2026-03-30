@@ -1,0 +1,13 @@
+.{
+    .name = .glfw_package,
+    .version = "0.0.0",
+    .fingerprint = 0xfae8c4bdb446ecc8,
+    .minimum_zig_version = "0.16.0-dev.2623+27eec9bd6",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "include",
+        "src",
+    },
+}
